@@ -27,6 +27,7 @@
 #include "Poco/NumberParser.h"
 #include <iostream>
 #include "ofLog.h"
+#include <vector>
 
 
 namespace ofx {

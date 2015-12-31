@@ -32,6 +32,7 @@ extern "C" {
 
 
 #include "Poco/Net/IPAddress.h"
+#include <vector>
 
 
 namespace ofx {
